@@ -20,7 +20,7 @@ import arches.app.models.models as archesmodels
 from arches.app.models.resource import Resource as ArchesResource
 from arches.app.search.search_engine_factory import SearchEngineFactory
 from arches.app.utils.betterJSONSerializer import JSONSerializer, JSONDeserializer
-from eamena.models import forms
+from {{cookiecutter.app_name}}.models import forms
 from django.utils.translation import ugettext as _
 from arches.app.models.entity import Entity
 
