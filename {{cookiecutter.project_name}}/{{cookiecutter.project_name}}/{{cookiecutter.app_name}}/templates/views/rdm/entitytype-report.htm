@@ -1,4 +1,5 @@
- {% load i18n %}
+{% raw %}
+{% load i18n %}
  {% load staticfiles %}
 <div class="col-xs-12 concept-report-loading hidden">{% trans "Loading..." %}</div>
 {% if concept.id == '00000000-0000-0000-0000-000000000003' %}
@@ -257,3 +258,4 @@
         {% include "views/rdm/modals/related-member-form.htm" %}
     </div>
 {% endif %}
+{% endraw %}
