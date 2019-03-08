@@ -1,4 +1,5 @@
 {
   "project_name": "EAMENA",
-  "app_name": "eamena"
+  "app_name": "eamena",
+  "database_name": "arches_eamena"
 }
