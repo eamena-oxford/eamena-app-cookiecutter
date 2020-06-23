@@ -1,0 +1,798 @@
+msgid "English"
+msgstr "انجليزي"
+
+#: eamena/settings.py:24
+msgid "Arabic"
+msgstr "عربي"
+
+#: eamena/settings.py:25
+msgid "Sorani"
+msgstr "سوراني"
+
+#: eamena/settings.py:45
+#: eamena/settings.py:48 eamena/settings.py:67
+msgid "No name available"
+msgstr "لا يوجد اسم متاح"
+
+#: eamena/settings.py:49 eamena/settings.py:68
+#: eamena/settings.py:50 eamena/settings.py:69 eamena/settings.py:88
+#: eamena/settings.py:107 eamena/settings.py:126 eamena/settings.py:145
+#: eamena/settings.py:64
+#: eamena/settings.py:83
+#: eamena/settings.py:86 eamena/settings.py:105 eamena/settings.py:124
+#: eamena/settings.py:143
+msgid "No description available"
+msgstr "لا يوجد وصف متاح"
+
+#: eamena/settings.py:87 eamena/settings.py:106 eamena/settings.py:125
+#: eamena/settings.py:144
+#: eamena/settings.py:102
+#: eamena/settings.py:121
+#: eamena/settings.py:140
+#: eamena/models/forms.py:49 eamena/models/forms.py:171
+#: eamena/models/forms.py:287
+#: eamena/templates/views/forms/external-reference.htm:14
+msgid "URLs"
+#: eamena/models/forms.py:145
+#: eamena/models/forms.py:221
+#: eamena/models/forms.py:297
+#: eamena/models/forms.py:336
+#: eamena/models/forms.py:360
+#: eamena/models/forms.py:391
+#: eamena/models/forms.py:458
+#: eamena/models/forms.py:495
+#: eamena/models/forms.py:592
+#: eamena/models/forms.py:627
+#: eamena/models/forms.py:728
+#: eamena/models/forms.py:769 eamena/templates/views/forms/designation.htm:14
+#: eamena/models/forms.py:795 eamena/templates/views/reports/ACTOR.E39.htm:317
+#: eamena/models/forms.py:822
+#: eamena/models/forms.py:858
+#: eamena/models/forms.py:887
+#: eamena/models/forms.py:966
+#: eamena/models/forms.py:1064
+#: eamena/models/forms.py:1108
+msgid "Cartography"
+#: eamena/models/forms.py:1204
+msgid "Imagery"
+#: eamena/models/resource.py:119
+#: eamena/models/resource.py:185
+#: eamena/templates/header.htm:30
+#: eamena/templates/header.htm:49
+#: eamena/templates/header.htm:49
+#: eamena/templates/header.htm:52
+#: eamena/templates/header.htm:52
+#: eamena/templates/header.htm:52
+#: eamena/templates/header.htm:68
+#: eamena/templates/header.htm:83
+#: eamena/templates/header.htm:91
+#: eamena/templates/header.htm:99
+#: eamena/templates/header.htm:108
+#: eamena/templates/header.htm:121
+#: eamena/templates/search.htm:20
+#: eamena/templates/views/forms/related-resources.htm:223
+msgid "Search for a resource..."
+msgstr "ابحث عن مورد"
+
+#: eamena/templates/search.htm:30
+msgid "Location Filter"
+msgstr "مرشح المكان"
+
+#: eamena/templates/search.htm:34
+msgid "Time Filter"
+msgstr "مرشح الزمن"
+
+#: eamena/templates/search.htm:40
+msgid "Tools"
+msgstr "أدوات"
+
+#: eamena/templates/search.htm:42
+#: eamena/templates/views/forms/related-resources.htm:325
+#: eamena/templates/views/search/map-filter.htm:16
+msgid "Toggle Dropdown"
+msgstr "قائمة يتم إفرادها للتبديل"
+
+#: eamena/templates/search.htm:45
+msgid "View Popular Searches"
+msgstr "أنظر الأبحاث المتواترة"
+
+#: eamena/templates/search.htm:48
+msgid "Export results to .SHP"
+msgstr "أرسل النتائج إلى SHP"
+
+#: eamena/templates/search.htm:50
+msgid "Export results to .KML"
+msgstr "أرسل النتائج إلى KML"
+
+#: eamena/templates/search.htm:51
+msgid "Export results to .JSON"
+msgstr "أرسل النتائج إلى JSON"
+
+#: eamena/templates/search.htm:55
+msgid "Clear Search"
+msgstr "امسح البحث"
+
+#: eamena/templates/search.htm:76
+msgid "Popular Searches:"
+msgstr "أبحات متواترة"
+
+#: eamena/templates/search.htm:91
+msgid "Results"
+msgstr "نتائج"
+
+#: eamena/templates/search.htm:99
+#: eamena/templates/views/forms/related-resources.htm:245
+msgid "Map Filter Enabled"
+msgstr "تم تفعيل مرشح الخريطة"
+
+#: eamena/templates/search.htm:102
+#: eamena/templates/views/forms/related-resources.htm:248
+msgid "Time Filter Enabled"
+msgstr "تم تفعيل مرشح الزمن"
+
+#: eamena/templates/views/forms/cartography.htm:839
+#: eamena/templates/views/forms/publication.htm:182
+#: eamena/templates/views/forms/location.htm:265
+#: eamena/templates/views/forms/actor-summary.htm:78
+#: eamena/templates/views/forms/location.htm:290
+#: eamena/templates/views/forms/summary.htm:633
+#: eamena/templates/views/forms/cartography.htm:855
+#: eamena/templates/views/forms/cartography.htm:862
+#: eamena/templates/views/forms/imagery.htm:583
+#: eamena/templates/views/forms/imagery.htm:590
+#: eamena/templates/views/forms/imagery.htm:669
+#: eamena/templates/views/forms/imagery.htm:676
+#: eamena/templates/views/forms/cartography.htm:877
+#: eamena/templates/views/forms/imagery.htm:605
+#: eamena/templates/views/forms/imagery.htm:691
+#: eamena/templates/views/forms/cartography.htm:893
+#: eamena/templates/views/forms/imagery.htm:621
+#: eamena/templates/views/forms/imagery.htm:707
+#: eamena/templates/views/forms/cartography.htm:897
+#: eamena/templates/views/forms/imagery.htm:625
+#: eamena/templates/views/forms/imagery.htm:711
+#: eamena/templates/views/forms/cartography.htm:902
+#: eamena/templates/views/forms/imagery.htm:630
+#: eamena/templates/views/forms/imagery.htm:716
+#: eamena/templates/views/forms/actor-summary.htm:46
+#: eamena/templates/views/forms/actor-summary.htm:83
+#: eamena/templates/views/forms/actor-summary.htm:60
+msgid "The name and name type values must be populated."
+msgstr "يجب ملئ قيمة الاسم وقيمة نوع الاسم"
+
+#: eamena/templates/views/forms/actor-summary.htm:74
+msgid "This Actor has the following Name(s):"
+msgstr "هذا الفاعل له الأسم/الاسماء التالية:"
+
+#: eamena/templates/views/forms/actor-summary.htm:82
+#: eamena/templates/views/forms/externals.htm:77
+#: eamena/templates/views/forms/externals.htm:160
+#: eamena/templates/views/forms/location.htm:289
+#: eamena/templates/views/forms/summary.htm:75
+#: eamena/templates/views/forms/summary.htm:158
+#: eamena/templates/views/forms/summary.htm:632
+msgid "Delete this name"
+msgstr "امسح هذا الاسم"
+
+#: eamena/templates/views/forms/actor-summary.htm:108
+msgid "Person/Organisation Type"
+msgstr "نوع الشخص/المؤسسة"
+ 
+#: eamena/templates/views/forms/actor-summary.htm:118
+#: eamena/templates/views/forms/actor-summary.htm:135
+#: eamena/templates/views/forms/actor-summary.htm:172
+#: eamena/templates/views/forms/imagery.htm:489
+#: eamena/templates/views/forms/imagery.htm:501
+#: eamena/templates/views/forms/imagery.htm:754
+#: eamena/templates/views/forms/roles.htm:69
+#: eamena/templates/views/forms/roles.htm:70
+#: eamena/templates/views/forms/roles.htm:123
+#: eamena/templates/views/forms/summary.htm:633
+#: eamena/templates/views/forms/actor-summary.htm:149
+msgid "A person/organisation type value must be populated."
+#: eamena/templates/views/forms/actor-summary.htm:163
+msgid "This actor has the following Type(s):"
+#: eamena/templates/views/forms/actor-summary.htm:167
+#: eamena/templates/views/forms/externals.htm:228
+msgid "No Types Defined"
+#: eamena/templates/views/forms/actor-summary.htm:171
+#: eamena/templates/views/forms/externals.htm:232
+msgid "Delete this type"
+#: eamena/templates/views/forms/district_classification.htm:286
+#: eamena/templates/views/forms/externals.htm:233
+msgid "Edit this type"
+#: eamena/templates/views/forms/actor-summary.htm:198
+#: eamena/templates/views/forms/actor-summary.htm:253
+#: eamena/templates/views/forms/location.htm:488
+msgid "Country"
+#: eamena/templates/views/forms/actor-summary.htm:245
+msgid "This actor is located in the following Country:"
+#: eamena/templates/views/forms/actor-summary.htm:248
+#: eamena/templates/views/forms/location.htm:539
+msgid "No Country Defined"
+#: eamena/templates/views/forms/actor-summary.htm:252
+msgid "Delete this country"
+#: eamena/templates/views/forms/actor-summary.htm:253
+msgid "Edit this item"
+#: eamena/templates/views/forms/cartography.htm:16
+msgid "Map Source"
+#: eamena/templates/views/forms/imagery.htm:119
+msgid "A map source must be selected."
+msgid "These sources are associated with this resource:"
+msgid "No Map Source defined"
+#: eamena/templates/views/forms/imagery.htm:539
+#: eamena/templates/views/forms/imagery.htm:540
+#: eamena/templates/views/forms/cartography.htm:105
+#: eamena/templates/views/forms/cartography.htm:146
+#: eamena/templates/views/forms/cartography.htm:234
+#: eamena/templates/views/forms/imagery.htm:160
+#: eamena/templates/views/forms/imagery.htm:516
+#: eamena/templates/views/forms/imagery.htm:781
+#: eamena/templates/views/forms/information-resource-summary.htm:60
+msgid "A right type must be selected."
+msgstr "يجب اختيار النوع الصحيح"
+
+#: eamena/templates/views/forms/cartography.htm:166
+msgid "No Creator(s) Defined"
+msgstr "المنشئ غير معرّف"
+
+#: eamena/templates/views/forms/cartography.htm:193
+#: eamena/templates/views/forms/cartography.htm:254
+msgid "No Series Defined"
+msgstr "لم يتم تحديد سلسلة"
+
+#: eamena/templates/views/forms/cartography.htm:281
+msgid "Place of publication"
+msgstr "مكان النشر"
+
+#: eamena/templates/views/forms/publication.htm:498
+#: eamena/templates/views/forms/cartography.htm:584
+msgid "No Place Defined"
+#: eamena/templates/views/forms/cartography.htm:383
+#: eamena/templates/views/forms/cartography.htm:390
+msgid "Projection/Grid"
+msgstr "اشعاع/شبكة"
+
+#: eamena/templates/views/forms/cartography.htm:398
+#: eamena/templates/views/forms/cartography.htm:454
+#: eamena/templates/views/forms/cartography.htm:461
+#: eamena/templates/views/forms/cartography.htm:469
+#: eamena/templates/views/forms/cartography.htm:408
+msgid "The Projection/Grid must be populated."
+msgstr "يجب تعبئة الاشعاع/الشبكة"
+
+#: eamena/templates/views/forms/cartography.htm:424
+msgid "This projection/grid is associated with this resource:"
+#: eamena/templates/views/forms/cartography.htm:427
+msgid "No Projection/Grid Defined"
+msgstr "لم يتم تحديد اشعاع/شبكة"
+
+#: eamena/templates/views/forms/cartography.htm:431
+msgid "Delete this projection/grid"
+msgstr "امسح هذا الاشعاع/الشبكة"
+
+#: eamena/templates/views/forms/cartography.htm:432
+msgid "Edit this projection/grid"
+msgstr "تعديل هذا الاشعاع/الشبكة"
+
+#: eamena/templates/views/forms/cartography.htm:479
+msgid "The Scale must be populated."
+msgstr "يجب تعبئة المقياس"
+
+#: eamena/templates/views/forms/cartography.htm:495
+#: eamena/templates/views/forms/cartography.htm:498
+#: eamena/templates/views/forms/cartography.htm:502
+#: eamena/templates/views/forms/cartography.htm:503
+#: eamena/templates/views/forms/cartography.htm:531
+#: eamena/templates/views/forms/cartography.htm:551
+#: eamena/templates/views/forms/cartography.htm:568
+#: eamena/templates/views/forms/cartography.htm:610
+msgid "Sheet Number"
+#: eamena/templates/views/forms/cartography.htm:600
+msgid "This resource has these sheet numbers:"
+#: eamena/templates/views/forms/cartography.htm:604
+msgid "No Sheet Number(s) defined"
+#: eamena/templates/views/forms/cartography.htm:607
+msgid "Delete this sheet number"
+#: eamena/templates/views/forms/cartography.htm:608
+msgid "Edit this sheet number"
+msgstr "تعديل رقم الصفحة هذه"
+
+#: eamena/templates/views/forms/cartography.htm:634
+#: eamena/templates/views/forms/cartography.htm:654
+#: eamena/templates/views/forms/cartography.htm:713
+msgid "Sheet Name"
+msgstr "اسم الصفحة"
+
+#: eamena/templates/views/forms/cartography.htm:671
+msgid "Sheet name"
+msgstr "اسم الصفحة"
+
+#: eamena/templates/views/forms/cartography.htm:687
+msgid "The sheet name must be populated."
+msgstr "يجب تعبئة اسم الصفحة"
+
+#: eamena/templates/views/forms/cartography.htm:703
+msgid "This resource has these Sheet Name(s)"
+msgstr "هذا المورد له أسماء الصفحات هذه"
+
+#: eamena/templates/views/forms/cartography.htm:707
+msgid "No Sheet Name Defined"
+#: eamena/templates/views/forms/cartography.htm:710
+msgid "Delete this sheet name"
+#: eamena/templates/views/forms/cartography.htm:711
+msgid "Edit this sheet name"
+#: eamena/templates/views/forms/cartography.htm:736
+#: eamena/templates/views/forms/cartography.htm:756
+#: eamena/templates/views/forms/cartography.htm:773
+#: eamena/templates/views/forms/cartography.htm:815
+msgid "Edition"
+msgstr "نسخة"
+
+#: eamena/templates/views/forms/cartography.htm:789
+msgid "The edition value must be populated."
+msgstr "يجب تعبئة قيمة النسحة"
+
+#: eamena/templates/views/forms/cartography.htm:805
+msgid "This resource has this Edition(s)"
+msgstr "هذا المورد له هذه النسخة/النسخ"
+
+#: eamena/templates/views/forms/cartography.htm:809
+msgid "No Edition Defined"
+msgstr "لم يتم تحديد نسخة"
+
+#: eamena/templates/views/forms/cartography.htm:812
+msgid "Delete this edition"
+msgstr "امسح هذه النسخة"
+
+#: eamena/templates/views/forms/cartography.htm:813
+msgid "Edit this edition"
+#: eamena/templates/views/forms/summary.htm:324
+#: eamena/templates/views/forms/summary.htm:326
+#: eamena/templates/views/forms/imagery.htm:372
+#: eamena/templates/views/forms/imagery.htm:376
+#: eamena/templates/views/forms/summary.htm:224
+#: eamena/templates/views/forms/summary.htm:493
+#: eamena/templates/views/forms/summary.htm:556
+#: eamena/templates/views/forms/class.htm:80
+#: eamena/templates/views/forms/class.htm:159
+#: eamena/templates/views/forms/measurement.htm:57
+#: eamena/templates/views/forms/measurement.htm:120
+#: eamena/templates/views/forms/measurement.htm:254
+#: eamena/templates/views/forms/measurement.htm:343
+msgid "Edit this measurement"
+msgstr "تعديل هذا القياس"
+
+#: eamena/templates/views/forms/description.htm:76
+#: eamena/templates/views/forms/location.htm:51
+#: eamena/templates/views/forms/location.htm:176
+#: eamena/templates/views/forms/location.htm:98
+#: eamena/templates/views/forms/location.htm:116
+#: eamena/templates/views/forms/location.htm:126
+#: eamena/templates/views/forms/location.htm:136
+#: eamena/templates/views/forms/location.htm:146
+#: eamena/templates/views/forms/location.htm:153
+#: eamena/templates/views/forms/location.htm:179
+#: eamena/templates/views/forms/location.htm:198
+#: eamena/templates/views/forms/location.htm:201
+#: eamena/templates/views/forms/description.htm:14
+#: eamena/templates/views/reports/ACTIVITY.E7.htm:297
+#: eamena/templates/views/reports/ACTOR.E39.htm:375
+#: eamena/templates/views/reports/HERITAGE_RESOURCE.E18.htm:312
+#: eamena/templates/views/reports/HISTORICAL_EVENT.E5.htm:306
+#: eamena/templates/views/reports/INFORMATION_RESOURCE.E73.htm:566
+msgid "Resource Descriptions"
+msgstr "وصف المورد"
+
+#: eamena/templates/views/forms/description.htm:46
+#: eamena/templates/views/forms/related-resources.htm:128
+#: eamena/templates/views/forms/related-resources.htm:371
+msgid "All values must be populated."
+msgstr "يجب تعبئة جميع القيم"
+
+#: eamena/templates/views/forms/description.htm:63
+msgid "This resource has these descriptions:"
+msgstr "هذا المورد له هذه الأوصاف"
+
+#: eamena/templates/views/forms/description.htm:67
+msgid "No Descriptions Defined"
+msgstr "لم يتم تحديد وصف"
+
+#: eamena/templates/views/forms/description.htm:75
+msgid "Remove this description"
+msgstr "احذف هذا الوصف"
+
+#: eamena/templates/views/forms/summary.htm:450
+#: eamena/templates/views/forms/external-reference.htm:30
+#: eamena/templates/views/forms/external-reference.htm:100
+msgid "URL"
+#: eamena/templates/views/forms/external-reference.htm:34
+#: eamena/templates/views/forms/external-reference.htm:55
+msgid "Access date"
+#: eamena/templates/views/forms/external-reference.htm:89
+msgid "This resource has the following URLs:"
+#: eamena/templates/views/forms/external-reference.htm:93
+msgid "No URLs defined"
+#: eamena/templates/views/forms/external-reference.htm:97
+msgid "Delete this URL"
+#: eamena/templates/views/forms/external-reference.htm:98
+msgid "Edit this URL"
+#: eamena/templates/views/forms/external-reference.htm:101
+msgid "Date of access"
+#: eamena/templates/views/forms/externals.htm:18
+#: eamena/templates/views/forms/externals.htm:101
+msgid "Name(s)"
+#: eamena/templates/views/forms/file-upload.htm:191
+msgid "اسم/اسماء"
+"DISCLAIMER: Please bear in mind that the database is OPEN-ACCESS and "
+"therefore ANY images or files that are uploaded must be Public Domain. It is "
+"your responsibility to ensure that you have permission to upload the file "
+"into the EAMENA database and that doing so does not violate any copyright or "
+"intellectual property laws. Any images or files that are found to violate "
+"copyright will be DELETED immediately. If you find any images or files in "
+"the database that you know or suspect to be in breach of copyright, please "
+"notify a member of the EAMENA team. Furthermore, if you upload any personal "
+"files (e.g. personal photographs, survey notes), be aware that these may be "
+"downloaded and used by any member of the public. EAMENA are not responsible "
+"if files are downloaded and used in ways not approved or anticipated by the "
+"uploader."
+#: eamena/templates/views/forms/imagery.htm:16
+#: eamena/templates/views/forms/imagery.htm:36
+msgid "Catalog ID"
+#: eamena/templates/views/forms/imagery.htm:53
+#: eamena/templates/views/forms/publication.htm:331
+#: eamena/templates/views/forms/shareddata.htm:157
+msgid "Editors"
+#: eamena/templates/views/forms/imagery.htm:89
+msgid "No Catalog ID Defined"
+#: eamena/templates/views/forms/imagery.htm:93
+msgid "Edit this Catalog ID"
+#: eamena/templates/views/forms/imagery.htm:176
+#: eamena/templates/views/forms/information-resource-summary.htm:76
+msgid "These types are associated with this resource:"
+#: eamena/templates/views/forms/imagery.htm:180
+#: eamena/templates/views/forms/publication.htm:469
+#: eamena/templates/views/forms/shareddata.htm:91
+msgid "No Source Defined"
+#: eamena/templates/views/forms/imagery.htm:208
+msgid "Creator(s)/Owner(s)"
+#: eamena/templates/views/forms/imagery.htm:228
+msgid "Creator(s)"
+#: eamena/templates/views/forms/imagery.htm:245
+msgid "Creators"
+#: eamena/templates/views/forms/imagery.htm:281
+msgid "No Creators(s) Defined"
+#: eamena/templates/views/forms/imagery.htm:311
+msgid "Image Details"
+#: eamena/templates/views/forms/imagery.htm:321
+msgid "Platform/Vehicle"
+#: eamena/templates/views/forms/imagery.htm:324
+msgid "Sensor/Camera Model"
+#: eamena/templates/views/forms/imagery.htm:331
+#: eamena/templates/views/forms/imagery.htm:378
+msgid "Bands/Colours/Spectral Resolution"
+#: eamena/templates/views/forms/imagery.htm:334
+msgid "Sensor/Camera Type"
+#: eamena/templates/views/forms/imagery.htm:343
+msgid "Sensor/Camera Resolution"
+#: eamena/templates/views/forms/imagery.htm:368
+msgid "Imagery Acquisition details recorded:"
+#: eamena/templates/views/forms/imagery.htm:378
+msgid "Platform"
+#: eamena/templates/views/forms/imagery.htm:378
+msgid " Sensor/Camera Model "
+#: eamena/templates/views/forms/imagery.htm:379
+msgid " Sensor/Camera Type "
+#: eamena/templates/views/forms/imagery.htm:380
+msgid " Sensor/Camera Resolution "
+#: eamena/templates/views/forms/imagery.htm:404
+#: eamena/templates/views/forms/imagery.htm:411
+msgid "Post-Processing Resolution"
+#: eamena/templates/views/forms/imagery.htm:419
+msgid "Resolution"
+#: eamena/templates/views/forms/imagery.htm:429
+msgid "The Keyword must be populated."
+#: eamena/templates/views/forms/imagery.htm:445
+msgid "This resolution is associated with this resource:"
+#: eamena/templates/views/forms/imagery.htm:448
+msgid "No Resolution Defined"
+#: eamena/templates/views/forms/imagery.htm:452
+msgid "Delete this resolution type"
+#: eamena/templates/views/forms/imagery.htm:453
+msgid "Edit this resolution "
+#: eamena/templates/views/forms/imagery.htm:475
+msgid "Processing Type"
+#: eamena/templates/views/forms/imagery.htm:532
+msgid "This processing type is associated with this resource:"
+#: eamena/templates/views/forms/imagery.htm:536
+msgid "No Processing Type Defined"
+#: eamena/templates/views/forms/imagery.htm:567
+msgid "Acquisition date"
+#: eamena/templates/views/forms/imagery.htm:653
+msgid "File date"
+#: eamena/templates/views/forms/imagery.htm:740
+msgid "Copyright Type"
+#: eamena/templates/views/forms/imagery.htm:766
+msgid "Copyright"
+#: eamena/templates/views/forms/imagery.htm:797
+msgid "This copyright is associated with this resource:"
+#: eamena/templates/views/forms/imagery.htm:801
+msgid "No Copyright Defined"
+#: eamena/templates/views/forms/imagery.htm:804
+msgid "Delete this copyright"
+#: eamena/templates/views/forms/imagery.htm:805
+msgid "Edit this copyright"
+#: eamena/templates/views/forms/information-resource-summary.htm:80
+msgid "No Information Resource Type Defined"
+#: eamena/templates/views/forms/information-resource-summary.htm:112
+#: eamena/templates/views/forms/information-resource-summary.htm:119
+#: eamena/templates/views/forms/information-resource-summary.htm:127
+#: eamena/templates/views/forms/information-resource-summary.htm:137
+#: eamena/templates/views/forms/information-resource-summary.htm:153
+#: eamena/templates/views/forms/information-resource-summary.htm:156
+#: eamena/templates/views/forms/information-resource-summary.htm:160
+#: eamena/templates/views/forms/information-resource-summary.htm:161
+#: eamena/templates/views/forms/location.htm:205
+msgid "Remove this geometry"
+msgstr "احذف هذه الخصائص الهندسية "
+
+#: eamena/templates/views/forms/location.htm:206
+msgid "Edit this geometry"
+msgstr "تعديل هذه الخصائص الهندسية"
+
+#: eamena/templates/views/forms/location.htm:231
+#: eamena/templates/views/forms/location.htm:249
+#: eamena/templates/views/forms/location.htm:240
+#: eamena/templates/views/forms/location.htm:281
+#: eamena/templates/views/forms/location.htm:285
+#: eamena/templates/views/forms/location.htm:316
+#: eamena/templates/views/forms/location.htm:368
+#: eamena/templates/views/forms/location.htm:371
+#: eamena/templates/views/forms/location.htm:457
+#: eamena/templates/views/forms/summary.htm:289
+#: eamena/templates/views/forms/summary.htm:356
+#: eamena/templates/views/forms/summary.htm:423
+#: eamena/templates/views/forms/location.htm:376
+#: eamena/templates/views/forms/location.htm:462
+#: eamena/templates/views/forms/location.htm:544
+#: eamena/templates/views/forms/location.htm:629
+#: eamena/templates/views/forms/location.htm:740
+#: eamena/templates/views/forms/location.htm:863
+#: eamena/templates/views/forms/location.htm:953
+msgid "Remove this relationship"
+msgstr "احذف هذه العلاقات"
+
+#: eamena/templates/views/forms/location.htm:377
+#: eamena/templates/views/forms/location.htm:463
+#: eamena/templates/views/forms/location.htm:545
+msgid "Edit this setting"
+#: eamena/templates/views/forms/location.htm:402
+msgid "Certainty of Geometry Extent"
+#: eamena/templates/views/forms/location.htm:454
+msgid "Certainty of geometry extent rank:"
+#: eamena/templates/views/forms/location.htm:570
+#: eamena/templates/views/forms/location.htm:621
+#: eamena/templates/views/forms/location.htm:624
+#: eamena/templates/views/forms/location.htm:649
+#: eamena/templates/views/forms/location.htm:665
+#: eamena/templates/views/forms/location.htm:733
+#: eamena/templates/views/forms/location.htm:735
+#: eamena/templates/views/forms/location.htm:766
+#: eamena/templates/views/forms/location.htm:796
+#: eamena/templates/views/forms/location.htm:855
+#: eamena/templates/views/forms/location.htm:858
+#: eamena/templates/views/forms/location.htm:891
+#: eamena/templates/views/forms/location.htm:948
+#: eamena/templates/views/forms/summary.htm:459
+#: eamena/templates/views/forms/summary.htm:552
+#: eamena/templates/views/forms/publication.htm:16
+#: eamena/templates/views/forms/publication.htm:36
+msgid "Author(s)"
+msgstr "مؤلف/مؤلفون"
+
+#: eamena/templates/views/forms/publication.htm:53
+msgid "Authors"
+msgstr "مؤلفون"
+
+#: eamena/templates/views/forms/publication.htm:89
+msgid "No Author(s) Defined"
+msgstr "لم يتم تحديد مؤلف"
+
+#: eamena/templates/views/forms/publication.htm:119
+#: eamena/templates/views/reports/sections/designation_section.htm:71
+#: eamena/templates/views/search/time-filter.htm:68
+msgid "Date"
+msgstr ""
+
+#: eamena/templates/views/forms/publication.htm:207
+#: eamena/templates/views/forms/publication.htm:216
+#: eamena/templates/views/forms/publication.htm:231
+#: eamena/templates/views/forms/related-files.htm:189
+#: eamena/templates/views/forms/related-files.htm:354
+#: eamena/templates/views/forms/related-files.htm:382
+msgid "Title"
+msgstr "عنوان"
+
+#: eamena/templates/views/forms/publication.htm:246
+msgid ""
+"The Type value must be populated. A resource can only have one primary name."
+msgstr "يجب ادخال قيمة النوع. ولا يحمل المورد سوى اسم أساسي واحد"
+
+#: eamena/templates/views/forms/publication.htm:266
+msgid "No Titles Defined"
+msgstr "لم يتم تحديد عنوان"
+
+#: eamena/templates/views/forms/publication.htm:270
+msgid "Delete this Title"
+msgstr "امسح هذا العنوان"
+
+#: eamena/templates/views/forms/publication.htm:271
+msgid "Edit this title"
+msgstr "تعديل هذا العنوان"
+
+#: eamena/templates/views/forms/publication.htm:294
+#: eamena/templates/views/forms/publication.htm:373
+msgid "editor"
+msgstr "المحرر"
+
+#: eamena/templates/views/forms/publication.htm:396
+msgid "Source (e.g. Journal/Volume title)"
+#: eamena/templates/views/forms/publication.htm:518
+#: eamena/templates/views/forms/publication.htm:577
+msgid "place"
+msgstr "مكان"
+
+#: eamena/templates/views/forms/publication.htm:574
+msgid "Delete this place"
+msgstr ""
+
+#: eamena/templates/views/forms/publication.htm:575
+msgid "Edit this place"
+msgstr "تعديل هذا المكان"
+
+#: eamena/templates/views/forms/publication.htm:600
+#: eamena/templates/views/forms/publication.htm:620
+#: eamena/templates/views/forms/publication.htm:637
+msgid "Publisher"
+msgstr "الناشر"
+
+#: eamena/templates/views/forms/publication.htm:702
+#: eamena/templates/views/forms/publication.htm:722
+#: eamena/templates/views/forms/publication.htm:739
+#: eamena/templates/views/forms/publication.htm:781
+msgid "Volume"
+msgstr "المجلد"
+
+#: eamena/templates/views/forms/publication.htm:778
+msgid "Delete this Volume"
+msgstr "حذف هذا المجلد"
+
+#: eamena/templates/views/forms/publication.htm:779
+msgid "Edit this Volume"
+msgstr "تعديل"
+
+#: eamena/templates/views/forms/publication.htm:804
+msgid "Issue/Edition"
+msgstr "العدد/النسخة"
+
+#: eamena/templates/views/forms/publication.htm:824
+#: eamena/templates/views/forms/publication.htm:841
+msgid "Issue"
+msgstr "العدد"
+
+#: eamena/templates/views/forms/publication.htm:906
+msgid "Pages(s)"
+msgstr "الصفحة/ الصفحات"
+
+#: eamena/templates/views/forms/publication.htm:926
+#: eamena/templates/views/forms/publication.htm:943
+msgid "Pages"
+msgstr "الصفحات"
+
+#: eamena/templates/views/forms/publication.htm:1008
+#: eamena/templates/views/forms/publication.htm:1087
+msgid "Figure"
+msgstr "الشكل"
+
+#: eamena/templates/views/forms/roles.htm:12
+msgid "Actor Roles"
+msgstr "مهام الفاعل"
+
+#: eamena/templates/views/forms/roles.htm:27
+#: eamena/templates/views/forms/roles.htm:123
+#: eamena/templates/views/forms/summary.htm:192
+#: eamena/templates/views/forms/summary.htm:392
+#: eamena/templates/views/forms/summary.htm:394
+#: eamena/templates/views/forms/summary.htm:462
+msgid "Certainty"
+#: eamena/templates/views/forms/roles.htm:105
+#: eamena/templates/views/forms/roles.htm:114
+#: eamena/templates/views/forms/roles.htm:118
+#: eamena/templates/views/forms/roles.htm:122
+#: eamena/templates/views/forms/roles.htm:123
+msgid "Edit this role"
+msgstr "تعديل هذه المهمة"
+
+#: eamena/templates/views/forms/roles.htm:123
+#: eamena/templates/views/forms/summary.htm:523
+msgid "From date"
+msgstr "من تاريخ"
+
+#: eamena/templates/views/forms/roles.htm:123
+#: eamena/templates/views/forms/summary.htm:526
+msgid "To date"
+msgstr "إلى تاريخ"
+
+#: eamena/templates/views/forms/summary.htm:471
+#: eamena/templates/views/forms/summary.htm:250
+#: eamena/templates/views/forms/summary.htm:257
+#: eamena/templates/views/forms/summary.htm:259
+#: eamena/templates/views/forms/summary.htm:269
+#: eamena/templates/views/forms/summary.htm:336
+#: eamena/templates/views/forms/summary.htm:404
+#: eamena/templates/views/forms/summary.htm:286
+#: eamena/templates/views/forms/summary.htm:353
+#: eamena/templates/views/forms/summary.htm:293
+#: eamena/templates/views/forms/summary.htm:360
+#: eamena/templates/views/forms/summary.htm:427
+msgid "Delete this keyword"
+msgstr "امسح هذه الكلمة المفتاح"
+
+#: eamena/templates/views/forms/summary.htm:294
+#: eamena/templates/views/forms/summary.htm:361
+#: eamena/templates/views/forms/summary.htm:428
+msgid "Edit this keyword"
+msgstr "تعديل هذه الكلمة المفتاح"
+
+#: eamena/templates/views/forms/summary.htm:317
+#: eamena/templates/views/forms/summary.htm:385
+#: eamena/templates/views/forms/summary.htm:420
+#: eamena/templates/views/forms/summary.htm:485
+#: eamena/templates/views/forms/summary.htm:489
+#: eamena/templates/views/forms/summary.htm:514
+#: eamena/templates/views/forms/summary.htm:533
+#: eamena/templates/views/forms/summary.htm:548
+#: eamena/templates/views/forms/summary.htm:558
+#: eamena/templates/views/forms/summary.htm:559
+#: eamena/templates/views/forms/summary.htm:582
+#: eamena/templates/views/forms/summary.htm:591
+#: eamena/templates/views/forms/summary.htm:592
+#: eamena/templates/views/forms/summary.htm:597
+msgid "Date (yyyy-mm-dd)"
+msgstr "التاريخ (السنة-الشهر-اليوم"
+
+#: eamena/templates/views/forms/summary.htm:610
+#: eamena/templates/views/forms/summary.htm:624
+#: eamena/templates/views/forms/summary.htm:628
+#: eamena/templates/views/forms/summary.htm:633
+msgid "Assessor"
+msgstr "المقيم"
+
+#: eamena/templates/views/forms/summary.htm:633
+msgid "Date of Assessment"
+msgstr "تاريخ التقييم"
+
+#: eamena/templates/views/reports/ACTIVITY.E7.htm:328
+#: eamena/templates/views/reports/ACTOR.E39.htm:406
+#: eamena/templates/views/reports/HERITAGE_RESOURCE.E18.htm:374
+#: eamena/templates/views/reports/HISTORICAL_EVENT.E5.htm:337
+#: eamena/templates/views/reports/INFORMATION_RESOURCE.E73.htm:597
+#: eamena/templates/views/reports/sections/EXTERNAL_XREF.E42.htm:6
+msgid "External System References"
+#: eamena/templates/views/reports/ACTOR.E39.htm:175
+msgid "Epithet"
+msgstr "الكنية"
+
+#: eamena/templates/views/reports/INFORMATION_RESOURCE.E73.htm:177
+msgid "Identifiers"
+msgstr "المعرّف"
+
+#: eamena/templates/views/reports/sections/SITE_FUNCTION_TYPE.htm:16
+msgid "(Certainty)"
+msgstr "مدى التأكد"
+
+#: eamena/templates/views/reports/sections/FEATURE_FORMS.htm:32
+#: eamena/templates/views/reports/sections/FEATURE_FORMS.htm:40
+msgid "(Interpretation Certainty)"
+#: eamena/templates/views/reports/sections/SITE_FUNCTION_TYPE.htm:10
+msgid "Buffer (m)"
