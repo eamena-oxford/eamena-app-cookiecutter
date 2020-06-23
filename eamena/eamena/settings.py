@@ -29,9 +29,9 @@ USE_L10N = True
 
 RESOURCE_MODEL = {'default': 'eamena.models.resource.Resource'}
 
-BING_KEY='Au0r8adxU5_QadMZ0jI_sXcD22g0bvF8boPtlWUVwBt4GKBVz3vL-93egN-_cibi'
+BING_KEY=''
 
-GOOGLE_ANALYTICS_TRACKING_ID ='UA-98110465-1'
+GOOGLE_ANALYTICS_TRACKING_ID =''
 
 #Below are the Amazon S3 Bitbucket credentials
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
